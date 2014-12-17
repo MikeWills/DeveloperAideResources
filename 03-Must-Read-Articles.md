@@ -1,4 +1,4 @@
-This is a list of articles that is worth your time reading. Don't worry, I won't expect a full report on this.
+This is a list of articles that is worth your time reading. Don't worry, I won't expect a full report on this. I am always posting more to my [Google+](https://plus.google.com/+MikeWills) so feel free to follow me there.
 
 * [JavaScript Disabled: Should I Care?](http://halls-of-valhalla.org/beta/articles/javascript-disabled-should-i-care,49/)
 * [Teaching Novice Programmers How to Debug Their Code](http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/)
