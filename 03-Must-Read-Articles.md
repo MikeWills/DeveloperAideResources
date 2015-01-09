@@ -4,3 +4,7 @@ This is a list of articles that is worth your time reading. Don't worry, I won't
 * [Teaching Novice Programmers How to Debug Their Code](http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/)
 * [Some REST best practices](https://bourgeois.me/rest/)
 * [What most young programmers need to learn](http://joostdevblog.blogspot.com/2015/01/what-most-young-programmers-need-to.html)
+
+### Sites and Blogs
+
+* [You Don't Need jQuery!](http://blog.garstasio.com/you-dont-need-jquery/)
