@@ -19,6 +19,7 @@ This is a list of articles that is worth your time reading. Don't worry, I won't
 ### CSS
 
 * [Introduction to CSS Colors](http://sixrevisions.com/css/css-colors/)
+* [Designing For Print With CSS](http://www.smashingmagazine.com/2015/01/07/designing-for-print-with-css/)
 
 ### Source Versioning
 
