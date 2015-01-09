@@ -9,6 +9,7 @@ This is a list of articles that is worth your time reading. Don't worry, I won't
 * [DNS Management: Registrars and Nameservers](https://pressable.com/blog/2014/12/04/dns-management-basics/)
 * [DNS Management: Zones, Record Types, and Record Composition](https://pressable.com/blog/2014/12/11/understanding-dns-record-types/)
 * [DNS Management: Record Types and When To Use Them](https://pressable.com/blog/2014/12/23/dns-record-types-explained/)
+* [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
 
 ### Sites and Blogs
 
