@@ -21,7 +21,7 @@ This is a list of all of the languages and technologies that we use on a regular
 * Lambda
 * jQuery
 * Knockout.js
-* 
+
 ### Coding Conventions
 
 * [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
