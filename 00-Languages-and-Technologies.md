@@ -2,7 +2,7 @@
 
 This is a list of all of the languages and technologies that we use on a regular basis. 
 
-**Languages**
+### Languages
 
 * Source Versioning (TFS, git)
 * HTML
@@ -14,10 +14,14 @@ This is a list of all of the languages and technologies that we use on a regular
 * SQL (T-SQL)
 * iSeries (bonus skill)
 
-**Libraries and Frameworks**
+### Libraries and Frameworks
 
 * Entity Framework
 * LINQ
 * Lambda
 * jQuery
 * Knockout.js
+* 
+### Coding Conventions
+
+* [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
