@@ -9,6 +9,7 @@ This is a list of articles that is worth your time reading. Don't worry, I won't
 * [What most young programmers need to learn](http://joostdevblog.blogspot.com/2015/01/what-most-young-programmers-need-to.html)
 * [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329)
 * [Your Job Is Not to Write Code](https://medium.com/@lauraklein/your-job-is-not-to-write-code-d002609b117a)
+* [Why your code is so hard to understand](https://medium.com/on-coding/why-your-code-is-so-hard-to-understand-83057c115a2b)
 
 ### Security
 
