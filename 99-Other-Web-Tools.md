@@ -6,6 +6,7 @@ These are other miscellaneous tools that can help you throughout your carreer.
 * [Adobe Color CC](https://color.adobe.com/)
 * [Google Fonts](http://www.google.com/fonts)
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Check for issues with your secure server configuration
+* [DevDocs](http://devdocs.io/) - Online documentation for many open-source languages and libraries.
 
 ### Cloud Code Hosting
 
