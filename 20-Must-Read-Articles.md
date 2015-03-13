@@ -11,6 +11,7 @@ This is a list of articles that is worth your time reading. Don't worry, I won't
 * [Your Job Is Not to Write Code](https://medium.com/@lauraklein/your-job-is-not-to-write-code-d002609b117a)
 * [Why your code is so hard to understand](https://medium.com/on-coding/why-your-code-is-so-hard-to-understand-83057c115a2b)
 * [Letters to junior developers](http://www.codeovereasy.com/2015/01/letters-to-junior-developers/)
+* [Your Job Is Not to Write Code](http://usersknow.blogspot.com/2015/02/your-job-is-not-to-write-code.html)
 
 ### Security
 
